@@ -1,4 +1,4 @@
-# Altschool Frontend Engineering- Exam Project
+# Alx Frontend Engineering- Portfolio Project
 
 # My GITHUB Portfolio
 
@@ -25,7 +25,7 @@ Task requirements :
 
 -LIVE URL: (https://godfred-ofosu-appiah-altschoolexam.netlify.app/)
 
--Github link: (https://github.com/Kwabena-Appiah/altschool-frontend-exam)
+-Github link: ((https://github.com/Kwabena-Appiah/Webstack---Portfolio-Project))
 
 ## Author
 
