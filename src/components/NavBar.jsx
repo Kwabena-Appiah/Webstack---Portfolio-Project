@@ -30,9 +30,9 @@ function NavBar() {
               <NavLink to="/contact" className="link">
                 Contact
               </NavLink>
-              <li className="nav-link">
+            <li className="nav-link">
               <NavLink to="/signup" className="link">
-                Sign up
+                Signup
               </NavLink>
             </li>
           </ul>
