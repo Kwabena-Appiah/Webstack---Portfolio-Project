@@ -11,7 +11,7 @@ export default function Home() {
           <p className="hd"> Frendzy Community for Developers</p>
           <p className="connect">Team Work</p>
           <p className="find">
-            Find a frendzy to connect and collaborate
+            Find a developer to connect and collaborate
           </p>
           <Link to="/users" className="connect-btn">
             connect now

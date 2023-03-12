@@ -17,18 +17,18 @@ function NavBar() {
           <ul className="nav-ul">
             <li className="nav-link">
               <NavLink to="/" className="link" end>
-                home
+                Home
               </NavLink>
             </li>
             <li className="nav-link">
               <NavLink to="/users" className="link">
-                F
+                Developers
               </NavLink>
             </li>
         
             <li className="nav-link">
               <NavLink to="/contact" className="link">
-                contact
+                Contact
               </NavLink>
             </li>
           </ul>

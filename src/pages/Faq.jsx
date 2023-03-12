@@ -21,7 +21,7 @@ export default function Faq() {
       </ul>
       <p className="pair">
         One of the great joys of programming is not having to do it alone.{" "}
-        <span className="ques"> So who's your coding budding?</span>
+        <span className="ques"> So who's your coding buddy?</span>
       </p>
     </div>
   );

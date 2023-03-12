@@ -26,7 +26,7 @@ export default function Contact() {
               fact
             </NavLink>
             <NavLink to="dev" className="more-users yellow">
-              contact
+              Contact
             </NavLink>
           </div>
           <Outlet />
