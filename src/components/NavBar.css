@@ -56,7 +56,7 @@ nav {
   .bl{
   display: block;
 }
-  .nav {
+  nav {
     transform: translateX(0%);
     transition: 500ms ease-in-out;
     background-color: transparent;
