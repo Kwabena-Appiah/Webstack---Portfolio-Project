@@ -7,6 +7,7 @@ import Social from "../pages/Social";
 import User from "../pages/User";
 import Users from "../pages/Users";
 import Nouser from "../pages/Nouser";
+import Signup from "../pages/Signup";
 
 function ProjectRoute() {
   return (
@@ -18,6 +19,7 @@ function ProjectRoute() {
         <Route path="contact" element={<Contact />}>
           <Route path="fact" element={<Faq />} />
           <Route path="dev" element={<Social />} />
+          <Route path="signup" element={<Signup />} />
         </Route>
         <Route path='nobuddy' element={<Nouser />} />
         <Route path="*" element={<Redirect />} />
