@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import { NavBar } from "../components";
 import Footer from "../components/Footer";
-export default function Home() {
+export default function Signup() {
   return (
 <>
   <NavBar />
