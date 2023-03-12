@@ -4,7 +4,7 @@ import { NavBar } from "../components";
 import Footer from "../components/Footer";
 export default function Home() {
   return (
-    <>
+<>
   <NavBar />
       <div className="signup">
         <div className="text-sect">
@@ -215,8 +215,8 @@ export default function Home() {
       </form>
     </div>
   </body>
-</html>
+<html/>
       <Footer/>
-       </>
+      </>
   );
 }
