@@ -1,7 +1,14 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <link rel="stylesheet" href="styles.css" />
+import React from "react";
+import { Link } from "react-router-dom";
+import { NavBar } from "../components";
+import Footer from "../components/Footer";
+export default function Home() {
+  return (
+    <>
+  <NavBar />
+      <div className="signup">
+        <div className="text-sect">
+          
   </head>
   <body>
     <div class="container">
@@ -209,3 +216,7 @@
     </div>
   </body>
 </html>
+      <Footer/>
+       </>
+  );
+}
