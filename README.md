@@ -1,9 +1,7 @@
-#**Second Semester assignment**
+# Frendzy: A Community for Developers
+# Alx Frontend Engineering- Project
 
-# Frendzy
-# Altschool Frontend Engineering- Project
-
-This is Altschool second capstone project in second semester for Frontend school of engineering.
+This is  capstone project in for Frontend engineering.
 ## Table of contents
 
 - [Overview](#overview)
@@ -29,7 +27,7 @@ Task requirements :
 
 
 
-- Solution URL:(https://github.com/Kwabena-Appiah/AltSchool-Second-Sem-Assignment-2)
+- Solution URL:(https://github.com/Kwabena-Appiah/Webstack---Portfolio-Project)
 - Live Site URL: (https://frendzy.netlify.app/)
 
 ### Built with
