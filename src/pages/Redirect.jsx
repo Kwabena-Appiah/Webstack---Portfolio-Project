@@ -1,17 +1,13 @@
 import React from 'react'
-import { HelmetProvider,Helmet } from 'react-helmet-async'
 import { Link } from 'react-router-dom'
 
 export default function Redirect() {
   return (
-    <HelmetProvider>
-      <Helmet>
-        <title>404 page</title>
-        <meta name="description" content="Redirect page" />
-      </Helmet>
+    <div className="redirect">
       <div>
-        <Link to="/">home</Link>
+        <p>Are you lost?</p>
+        <Link to="/">go home</Link>
       </div>
-    </HelmetProvider>
+    </div>
   );
 }
