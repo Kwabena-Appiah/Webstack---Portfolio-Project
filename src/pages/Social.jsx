@@ -27,7 +27,7 @@ export default function Social() {
          <AiOutlineMail />
        </a>
        <a
-         href="https://kwabena-appiah.github.io/Kwabena-appiah-portfolio/"
+         href="https://github.com/Kwabena-Appiah"
          target="_blank"
          rel="noreferrer"
        >
