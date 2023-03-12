@@ -28,7 +28,7 @@ Task requirements :
 
 
 - Solution URL:(https://github.com/Kwabena-Appiah/Webstack---Portfolio-Project)
-- Live Site URL: (https://frendzy.netlify.app/)
+- Live Site URL: (https://frendzycommunity.netlify.app/)
 
 ### Built with
 
