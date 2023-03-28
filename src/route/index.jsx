@@ -2,6 +2,7 @@ import { Route, Routes } from "react-router-dom";
 import Redirect from "../pages/Redirect";
 import Contact from "../pages/Contact";
 import Home from "../pages/Home";
+import Login from "./containers/Login";
 import Faq from "../pages/Faq";
 import Social from "../pages/Social";
 import User from "../pages/User";
